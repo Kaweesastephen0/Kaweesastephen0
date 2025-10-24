@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm *Code Master*
+# 👋 Hi there, I'm *Kaweesa Stephen*
 ### 💻 Full Stack Developer | 🌍 Based in Uganda
 
 Welcome to my GitHub profile!  
