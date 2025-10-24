@@ -1,4 +1,9 @@
-## Hi there 👋, I'm Kaweesa stephen, a passionate full stack developer from Uganda-Kampala
+## Hi there 👋, I'm Kaweesa stephen, a passionate full stack developer from Uganda-Kampala.
+🔭 I’m currently a finalist at makerere University.
+- 🌱 I’m currently learning MERN stack and Python.
+- 👯 I’m looking to collaborate on Building Ai-powered systems.
+- 📫 How to reach me: kaweesastephen0@gmail.com/ +256760827829 < #whatsapp />.
+- ⚡ I love doing research about Tech but progragramming in particular
 
 <!--
 **Kaweesastephen0/Kaweesastephen0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
