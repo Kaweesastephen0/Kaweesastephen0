@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm *Kaweesa Stephen*
-### 💻 Full Stack Developer | 🌍 Based in Uganda
+### 💻A Full Stack Developer | 🌍 Based in Uganda
 
 Welcome to my GitHub profile!  
 I’m passionate about building powerful, efficient, and scalable web applications.
@@ -61,4 +61,4 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 
 ---
 
-⭐ "Love Code, Learn Code." ⭐
+<p align="center">⭐ "Love Code, Learn Code." ⭐</p>p>
