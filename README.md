@@ -6,16 +6,16 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
 
-🎯 *Currently working on:* Python + MERN stack projects  
-🧠 *Learning:* AI integrations and DevOps  
-💬 *Ask me about:* Python, React, APIs, and systems  
-⚡ *Fun fact:* I love automating repetitive tasks and improving workflows
+✔️ *Currently working on:* Python + MERN stack projects  
+✔️ *Learning:* AI integrations and DevOps  
+✔️ *Ask me about:* Python, React, APIs, and systems  
+✔️ *Fun fact:* I love automating repetitive tasks and improving workflows
 
 ---
 
-## 🧠 Tech Stack
+## 💠 Tech Stack
 
 *🗣 Languages:*  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
