@@ -61,4 +61,4 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 
 ---
 
-<p align="center">⭐ "Love Code, Learn Code." ⭐</p>p>
+<p align="center">⭐ "Love Code, Learn Code." ⭐</p>
