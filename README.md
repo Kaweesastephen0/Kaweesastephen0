@@ -1,52 +1,63 @@
-<h1 align="center" style="color:#00bcd4;">👋 Hi there, I'm <span style="color:#ff4081;">Code Master</span></h1>
-<h3 align="center" style="color:#9c27b0;">💻 Full Stack Developer | 🌍 Based in Uganda</h3>
+# 👋 Hi there, I'm *Code Master*
+### 💻 Full Stack Developer | 🌍 Based in Uganda
 
-<p align="center">
-Welcome to my GitHub profile! I love building web applications, exploring new technologies, and creating efficient solutions.
-</p>
-
----
-
-<h2 style="color:#4caf50;">🚀 About Me</h2>
-
-- 🔭 I’m currently working on *Django + Next.js projects*
-- 🌱 Learning more about *AI integrations* and *DevOps*
-- 💬 Ask me about *Python, React, APIs, and backend systems*
-- ⚡ Fun fact: I enjoy automating tasks and optimizing workflows
+Welcome to my GitHub profile!  
+I’m passionate about building powerful, efficient, and scalable web applications.
 
 ---
 
-<h2 style="color:#2196f3;">🧠 Tech Stack</h2>
+## 🚀 About Me
 
-*Languages:*  
-Python | JavaScript | TypeScript | HTML | CSS
-
-*Frameworks & Tools:*  
-Django | Next.js | React | Node.js | Express
-
-*Databases:*  
-PostgreSQL | MySQL | MongoDB | SQLite
-
-*Others:*  
-Docker | Git | Linux | NGINX | REST APIs
+🎯 *Currently working on:* Python + MERN stack projects  
+🧠 *Learning:* AI integrations and DevOps  
+💬 *Ask me about:* Python, React, APIs, and systems  
+⚡ *Fun fact:* I love automating repetitive tasks and improving workflows
 
 ---
 
-<h2 style="color:#ff9800;">📊 GitHub Stats</h2>
+## 🧠 Tech Stack
 
-![Code Master's GitHub stats](https://github-readme-stats.vercel.app/api?username=codemaster256&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codemaster256&layout=compact&theme=radical)
+*🗣 Languages:*  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+*⚙ Frameworks & Tools:*  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+*🗄 Databases:*  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+*🧰 Other Tools:*  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
 
 ---
 
-<h2 style="color:#e91e63;">🌐 Connect with Me</h2>
+## 📊 GitHub Stats
 
-<p align="left">
-<a href="https://github.com/codemaster256"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
+![Kaweesa Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaweesastephen0&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaweesastephen&layout=compact&theme=tokyonight)
 
 ---
 
-<p align="center" style="color:#9e9e9e;">⭐ "Code. Learn. Build. Repeat." ⭐</p>
+## 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaweesastephen0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaweesa-stephen-01282b331)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaweesastephen0@gmail.com)
+
+---
+
+⭐ "Love Code, Learn Code." ⭐
