@@ -48,7 +48,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 ## 📊 GitHub Stats
 
 ![Kaweesa Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaweesastephen0&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaweesastephen&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaweesastephen0&layout=compact&theme=tokyonight)
 
 ---
 
