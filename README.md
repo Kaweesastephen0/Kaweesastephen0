@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm *Kaweesa Stephen*
-### A Full Stack Developer | <img src="https://flagcdn.com/w40/ug.png" width="40" alt="Ug flag"> Based in Uganda  
+### A Full Stack Developer | <img src="https://flagcdn.com/w40/ug.png" width="30" alt="Ug flag"> Based in Uganda  
 
 Welcome to my GitHub profile!  
 I’m passionate about building powerful, efficient, and scalable web applications.
