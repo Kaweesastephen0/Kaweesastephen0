@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm *Kaweesa Stephen*
 ### A Full Stack Developer | Based in Uganda <img src="https://flagcdn.com/w40/ug.png" width="30" alt="Ug flag">       
-    
+     
 Welcome to my GitHub profile!     
 I’m passionate about building powerful, efficient, and scalable web applications.    
    
@@ -15,7 +15,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
  
 ---
 
-## 💠 Tech Stack
+## Tech Stack
 
 *🗣 Languages:*  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +36,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-*🧰 Other Tools:*  
+* Other Tools:*  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -45,7 +45,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Kaweesa Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaweesastephen0&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaweesastephen0&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
