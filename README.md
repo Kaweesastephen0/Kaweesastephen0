@@ -10,7 +10,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
            
 ✔️ *Currently working on:* Python + MERN stack projects                
 ✔️ *Learning:* AI integrations and DevOps  
-✔️ *Ask me about:* Python, React, APIs, and systems  
+✔️ *Ask me about:* Python, React, APIs, and systems    
 ✔️ *Fun fact:* I love automating repetitive tasks and improving workflows
  
 ---
