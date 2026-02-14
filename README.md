@@ -14,7 +14,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 ✔️ *Fun fact:* I love automating repetitive tasks and improving workflows
 
 ## My Portfolio
-(View)[https://my-portifolio-seven-drab.vercel.app/]
+[View](https://my-portifolio-seven-drab.vercel.app/)
    
 ---
      
