@@ -15,6 +15,10 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 
 ## My Portfolio
 [View](https://my-portifolio-seven-drab.vercel.app/)
+
+<a href="https://my-portifolio-seven-drab.vercel.app/">
+  <img src="https://my-portifolio-seven-drab.vercel.app/profile.jpg" alt="Website Preview" width="800">
+</a>
    
 ---
      
