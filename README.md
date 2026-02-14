@@ -12,6 +12,9 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 ✔️ *Learning:* AI integrations and DevOps  
 ✔️ *Ask me about:* Python, React, APIs, and systems         
 ✔️ *Fun fact:* I love automating repetitive tasks and improving workflows
+
+## My Portfolio
+(View)[https://my-portifolio-seven-drab.vercel.app/]
    
 ---
      
