@@ -107,7 +107,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaweesastephen0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaweesa-stephen-01282b331)
