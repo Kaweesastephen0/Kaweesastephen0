@@ -13,7 +13,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 ✔️ *Ask me about:* Python, React, APIs, and systems         
 ✔️ *Fun fact:* I love automating repetitive tasks and improving workflows
 
-## My Portfolio
+## My Portfolio  
 
 <a href="https://my-portifolio-seven-drab.vercel.app/">
   <img src="https://my-portifolio-seven-drab.vercel.app/Portfolio.png" alt="Website Preview" width="800">
