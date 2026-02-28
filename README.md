@@ -79,7 +79,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" />
 </a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer">
+<a href="https://mui.com/" target="_blank" rel="noreferrer">  
      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" />
 </a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
