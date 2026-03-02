@@ -17,7 +17,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 
 <a href="https://my-portifolio-seven-drab.vercel.app/">
   <img src="https://my-portifolio-seven-drab.vercel.app/Portfolio.png" alt="Website Preview" width="800">
-</a>
+</a>  
    
 ---
      
