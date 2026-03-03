@@ -6,7 +6,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
                                                                     
 ---                                                                                                                        
                                                                                                                                                                                                                                                            
-## About Me                                                                                                         
+## About Me                                                                                                            
                          
 ✔️*Currently working on:* Python + MERN stack projects                           
 ✔️ *Learning:* AI integrations and DevOps  
