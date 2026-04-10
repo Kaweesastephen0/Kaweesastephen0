@@ -49,9 +49,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
----
-
----  
+--
 
 ## GitHub Stats
 
