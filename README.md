@@ -47,8 +47,8 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
 --
-
-## GitHub Stats
+<!--
+## GitHub Stats -->
 
 ![Kaweesa Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaweesastephen0&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaweesastephen0&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
