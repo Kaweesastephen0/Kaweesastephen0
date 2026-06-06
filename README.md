@@ -46,7 +46,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)
---
+---
 <!--
 ## GitHub Stats 
 
@@ -58,7 +58,6 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 
 ## Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaweesastephen0)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaweesa-stephen-01282b331)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaweesastephen0@gmail.com)
 
