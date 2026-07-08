@@ -21,7 +21,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
    
 ---
 
-## Projects
+## Some of my Projects
 
 | **An AI-powered TikTok Impersonation Detection System** | **An AI-powered Diabetes Management System** |
 |:---------------:|:---------------:|
