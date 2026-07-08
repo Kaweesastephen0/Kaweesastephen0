@@ -23,9 +23,9 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 
 ## Projects
 
-| **Project One** | **Project Two** | **Project Three** *(coming soon)* |
-|:---------------:|:---------------:|:---------------------------------:|
-| <img src="https://github.com/user-attachments/assets/18b28454-722c-438f-af16-3920a5a61236" width="100%"> | <img src="https://github.com/user-attachments/assets/154d0ace-b942-4772-9542-3ec5482d7751" width="100%"> | <div style="background:#f0f0f0; padding:30px 0; text-align:center; border-radius:8px;">🚧<br>More projects<br>on the way</div> |
+| **An AI-powered TikTok Impersonation Detection System** | **An AI-powered Diabetes Management System** |
+|:---------------:|:---------------:|
+| <img src="https://github.com/user-attachments/assets/18b28454-722c-438f-af16-3920a5a61236" width="100%"> | <img src="https://github.com/user-attachments/assets/154d0ace-b942-4772-9542-3ec5482d7751" width="100%"> | 
 
 ---
      
