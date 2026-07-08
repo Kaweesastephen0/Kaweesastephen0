@@ -20,6 +20,15 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 </a>  
    
 ---
+
+## Projects
+
+| Project | Description | Screenshot |
+|---------|-------------|------------|
+| **Project One** | A web application built with modern technologies (details coming soon). | <img src="https://github.com/user-attachments/assets/18b28454-722c-438f-af16-3920a5a61236" width="200" alt="Project One screenshot"> |
+| **Project Two** | Another innovative solution focused on user experience and performance. | <img src="https://github.com/user-attachments/assets/154d0ace-b942-4772-9542-3ec5482d7751" width="200" alt="Project Two screenshot"> |
+
+---
      
 ## Tech Stack
 
