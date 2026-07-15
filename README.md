@@ -25,7 +25,7 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 
 | **An AI-powered TikTok Impersonation Detection System** | **An AI-powered Diabetes Management System** |
 |:---------------:|:---------------:|
-| <img src="https://github.com/user-attachments/assets/18b28454-722c-438f-af16-3920a5a61236" width="100%"> | <img src="https://github.com/user-attachments/assets/154d0ace-b942-4772-9542-3ec5482d7751" width="100%"> | 
+| <img src="https://github.com/user-attachments/assets/0fc876ec-eea6-4547-bf84-f3140b10ba6c" width="100%"/> | <img src="https://github.com/user-attachments/assets/154d0ace-b942-4772-9542-3ec5482d7751" width="100%"> | 
 
 ---
      
