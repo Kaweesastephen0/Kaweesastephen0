@@ -18,16 +18,12 @@ I’m passionate about building powerful, efficient, and scalable web applicatio
 <a href="https://my-portifolio-seven-drab.vercel.app/">
   <img src="https://my-portifolio-seven-drab.vercel.app/Portfolio.png" alt="Website Preview" width="800">
 </a>  
-   
----
-
+ <!--  
 ## Some of my Projects
-
 | **An AI-powered TikTok Impersonation Detection System** | **An AI-powered Diabetes Management System** |
 |:---------------:|:---------------:|
 | <img src="https://github.com/user-attachments/assets/0fc876ec-eea6-4547-bf84-f3140b10ba6c" width="100%"/> | <img src="https://github.com/user-attachments/assets/154d0ace-b942-4772-9542-3ec5482d7751" width="100%"> | 
-
----
+-->
      
 ## Tech Stack
 
